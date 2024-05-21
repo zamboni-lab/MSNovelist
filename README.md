@@ -2,12 +2,17 @@
 Michael A. Stravs (1), Kai Dührkop (2), Sebastian Böcker (2), Nicola Zamboni (1)
 
 1 Institute of Molecular Systems Biology, ETH Zürich, CH-8092 Zürich, Switzerland
-
 2 Institut für Informatik, Friedrich-Schiller-Universität Jena, D-07743 Jena, Germany
 
-stravs@imsb.biol.ethz.ch
+Nat Methods, 2022 Jul;19(7):865-870. doi: [10.1038/s41592-022-01486-3](https://doi.org/10.1038/s41592-022-01486-3)
 
-submitted, bioRxiv: https://www.biorxiv.org/content/10.1101/2021.07.06.450875v1
+> [!IMPORTANT]  
+> 
+> The backend server hosted by the Böcker group on Jena for fingerprinting was switched off in 2023 with the EOL of SIRIUS4. Hence, the MSNovelist version provided here is no longer operative. 
+>
+> As of May 2024, MSNovelist was integrated in [SIRIUS6](https://github.com/sirius-ms/sirius/releases) and profits from more extensive fingerprints and retrained predictors.
+> 
+> This repository is kept only for archival.
 
 ## Installation and use
 
